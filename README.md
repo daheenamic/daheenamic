@@ -3,12 +3,12 @@
 </div>
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 TEST </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <ul>
-            <li>test1</li>
-            <li>test2</li> 
-            <li>test3</li>  
+            <li>어떤 일이든 책임감을 가지고 끝까지 마무리하려는 자세로 임하며, 주어진 업무에 최선을 다합니다.</li>
+            <li>작은 부분도 놓치지 않으려는 꼼꼼함을 바탕으로, 코드의 안정성과 완성도를 높이기 위해 노력합니다.</li> 
+            <li>하루 1%씩이라도 성장하고자, 기록하고 복기하며 꾸준히 발전 중입니다.</li>  
             <br>
         </ul>   
     </div> 
