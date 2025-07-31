@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome%20to%20my%20world!&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jeong%20Dahee&animation=&fontColor=ffffff&fontSize=40" />
 </div>
 
 <div style="text-align: left;"> 
