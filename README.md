@@ -25,5 +25,5 @@
 
 
 ### 💻 GitHub Analytics
-![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=daheenamic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=daheenamic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daheenamic&layout=compact&theme=algolia)
