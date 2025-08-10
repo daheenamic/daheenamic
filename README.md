@@ -30,8 +30,8 @@
 <div style="text-align: left;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝🏻 Links </h3>
     <div style="text-align: left;">
-        <a href="https://velog.io/@daheenamic"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
-        <a href="mailto:meluna0226@gmail.com"><img src="https://img.shields.io/badge/-meluna0226@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+        <a href="https://velog.io/@daheenamic"><img src="https://img.shields.io/badge/-Velog-05122A?style=flat&logo=Velog"/></a>
+        <a href="mailto:meluna0226@gmail.com"><img src="https://img.shields.io/badge/-meluna0226@gmail.com-05122A?style=flat&logo=Gmail"/></a>
     </div>
 </div>
 
