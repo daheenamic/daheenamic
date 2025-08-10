@@ -3,13 +3,15 @@
 </div>
 
 <div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 백엔드 개발자 정다희 입니다. ☺️</h3>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 백엔드 개발자 정다희 입니다. ☺️</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <span>✔️ 어떤 일이든 책임감을 가지고 끝까지 마무리하려는 자세로 임하며, 주어진 업무에 최선을 다합니다.</span></br>
         <span>✔️ 작은 부분도 놓치지 않으려는 꼼꼼함을 바탕으로, 코드의 안정성과 완성도를 높이기 위해 노력합니다.</span></br>
         <span>✔️ 하루 1%씩이라도 성장하고자, 이미 완성된 코드라도 다시 살펴보고 고민하며, 더 나은 방향으로 리팩토링하는 습관을 이어가고 있습니다.</span>
     </div> 
 </div>
+
+</br>
 
 <div style="text-align: left;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Technical Skills </h3>
