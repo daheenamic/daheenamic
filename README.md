@@ -38,7 +38,7 @@
 <div style="text-align: left;"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 GitHub Analytics </h3>
     <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=daheenamic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=daheenamic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daheenamic&layout=compact&theme=algolia"/>
     </div> 
 </div>
