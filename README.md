@@ -1,45 +1,29 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jeong%20Dahee&animation=&fontColor=ffffff&fontSize=40" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jeong%20Dahee&animation=&fontColor=ffffff&fontSize=40" />
+</p>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 백엔드 개발자 정다희 입니다. ☺️</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <span>✔️ 어떤 일이든 책임감을 가지고 끝까지 마무리하려는 자세로 임하며, 주어진 업무에 최선을 다합니다.</span></br>
-        <span>✔️ 작은 부분도 놓치지 않으려는 꼼꼼함을 바탕으로, 코드의 안정성과 완성도를 높이기 위해 노력합니다.</span></br>
-        <span>✔️ 하루 1%씩이라도 성장하고자, 매일 조금씩이라도 공부하고 기록합니다.</span>
-    </div> 
-</div>
+## 👋 백엔드 개발자 정다희 입니다. ☺️
 
-</br>
+✔️ 어떤 일이든 책임감을 가지고 끝까지 마무리하려는 자세로 임하며, 주어진 업무에 최선을 다합니다.  
+✔️ 작은 부분도 놓치지 않으려는 꼼꼼함을 바탕으로, 코드의 안정성과 완성도를 높이기 위해 노력합니다.  
+✔️ 하루 1%씩이라도 성장하고자, 매일 조금씩이라도 공부하고 기록합니다.  
 
-<div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Technical Skills </h3>
-    <div style="margin: ; text-align: left;" "text-align: left;">
-        <img src="https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java">
-        <img src="https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring">
-        <img src="https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot">
-        <img src="https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript">
-        <img src="https://img.shields.io/badge/jQuery-05122A?style=flat-square&logo=jQuery">
-        <img src="https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5">
-        <img src="https://img.shields.io/badge/CSS-05122A?style=flat-square&logo=CSS3">
-        <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
-    </div>
-</div>
+### 🛠️ Technical Skills
+![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java)
+![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot)
+![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript)
+![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat-square&logo=jQuery)
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-05122A?style=flat-square&logo=CSS3)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 
-<div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝🏻 Links </h3>
-    <div style="text-align: left;">
-        <a href="https://velog.io/@daheenamic"><img src="https://img.shields.io/badge/-Velog-05122A?style=flat&logo=Velog"/></a>
-        <a href="mailto:meluna0226@gmail.com"><img src="https://img.shields.io/badge/-meluna0226@gmail.com-05122A?style=flat&logo=Gmail"/></a>
-    </div>
-</div>
 
-<div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 GitHub Analytics </h3>
-    <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=daheenamic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daheenamic&layout=compact&theme=algolia"/>
-    </div> 
-</div>
-    
+### 🤝🏻 Links
+[![Velog](https://img.shields.io/badge/-Velog-05122A?style=flat&logo=Velog)](https://velog.io/@daheenamic)
+[![Gmail](https://img.shields.io/badge/-meluna0226@gmail.com-05122A?style=flat&logo=Gmail)](mailto:meluna0226@gmail.com)
+
+
+### 💻 GitHub Analytics
+![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=daheenamic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daheenamic&layout=compact&theme=algolia)
