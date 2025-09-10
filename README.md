@@ -13,6 +13,8 @@
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot)
 ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=Docker)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=MySQL)
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat-square&logo=jQuery)
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat-square&logo=CSS3)
