@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jeong%20Dahee&animation=&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jeong%20Dahee&animation=&fontColor=ffffff&fontSize=40"/>
 </p>
 
 ## 👋 백엔드 개발자 정다희 입니다.
