@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jeong%20Dahee&animation=&fontColor=ffffff&fontSize=40" />
 </p>
 
-## 👋 백엔드 개발자 정다희 입니다.
+## 👋 백엔드 개발자 정다희 입니다. 
 
 - 어떤 일이든 책임감을 가지고 끝까지 마무리하려는 자세로 임하며, 주어진 업무에 최선을 다합니다.
 - 작은 부분도 놓치지 않으려는 꼼꼼함을 바탕으로, 코드의 안정성과 완성도를 높이기 위해 노력합니다.
