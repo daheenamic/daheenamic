@@ -11,13 +11,14 @@
 ### Skills
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java)
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot)
-![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot) <br>
+![HTML5](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat-square&logo=CSS)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat-square&logo=Node.js)
+![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat-square&logo=jQuery)
+![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript) <br>
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=Docker)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=MySQL)
-![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat-square&logo=jQuery)
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat-square&logo=CSS3)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 
 
