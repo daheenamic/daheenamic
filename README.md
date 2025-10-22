@@ -20,6 +20,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript) <br>
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=Docker)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=MySQL)
+![git](https://img.shields.io/badge/git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 
 
