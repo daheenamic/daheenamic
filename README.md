@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat-square&logo=CSS)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat-square&logo=Node.js)
+![Thymeleaf](https://img.shields.io/badge/thymeleaf-05122A?style=flat-square&logo=thymeleaf)
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat-square&logo=jQuery)
 ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript) <br>
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=Docker)
