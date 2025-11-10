@@ -11,7 +11,8 @@
 ### Skills
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java)
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot) <br>
+![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-05122A?style=flat-square&logo=SpringSecurity) <br>
 ![HTML5](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat-square&logo=CSS)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat-square&logo=Node.js)
