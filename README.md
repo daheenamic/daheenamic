@@ -30,12 +30,8 @@
 <br><br>
 
 
-<a href="https://velog.io/@daheenamic">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
-</a>
-<a href="mailto:meluna0226@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<a href="https://velog.io/@daheenamic"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
+<a href="mailto:meluna0226@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
