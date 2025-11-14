@@ -4,34 +4,38 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=&fontColor=ffffff&fontSize=40"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=50&pause=1000&color=2D649C&center=true&vCenter=true&width=800&height=100&lines=Hi+there!;Glad+to+see+you+here+in+my+GitHub+space!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=50&pause=1000&color=81A1C1&center=true&vCenter=true&width=800&height=100&lines=Hi+there!;Glad+to+see+you+here+in+my+GitHub+space!" alt="Typing SVG" /></a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java" alt="Java" />
-<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring" alt="Spring" />
-<img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot" alt="SpringBoot" />
-<img src="https://img.shields.io/badge/SpringSecurity-000000?style=flat-square&logo=SpringSecurity" alt="SpringSecurity" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white" />
 <br>
 
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=HTML5" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS" alt="CSS3" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js" alt="Node.js" />
-<img src="https://img.shields.io/badge/thymeleaf-000000?style=flat-square&logo=thymeleaf" alt="Thymeleaf" />
-<img src="https://img.shields.io/badge/jQuery-000000?style=flat-square&logo=jQuery" alt="jQuery" />
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript" alt="Javascript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
 <br>
 
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker" alt="Docker" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL" alt="MySQL" />
-<img src="https://img.shields.io/badge/git-000000?style=flat&logo=git" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 <br><br>
 
 
-<a href="https://velog.io/@daheenamic"><img src="https://img.shields.io/badge/-Velog-000000?style=flat&logo=Velog" alt="Velog" /></a>
-<a href="mailto:meluna0226@gmail.com"><img src="https://img.shields.io/badge/-meluna0226@gmail.com-000000?style=flat&logo=Gmail" alt="Gmail" /></a>
+<a href="https://velog.io/@daheenamic">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
+</a>
+<a href="mailto:meluna0226@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 <br><br>
 
