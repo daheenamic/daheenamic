@@ -34,9 +34,6 @@
 <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=CSS&logoColor=black" />
 <br>
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <br><br>
 
 <a href="https://velog.io/@daheenamic"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
